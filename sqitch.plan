@@ -2,3 +2,4 @@
 %project=flipr
 %uri=https://github.com/mlsokolova/sqitch-tst
 
+appschema 2020-05-25T14:33:29Z Maria Sokolova <mlsokolova@gmail.com> # Add schema for all flipr objects.
