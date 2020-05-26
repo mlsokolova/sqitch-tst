@@ -3,3 +3,4 @@
 %uri=https://github.com/mlsokolova/sqitch-tst
 
 appschema 2020-05-25T14:33:29Z Maria Sokolova <mlsokolova@gmail.com> # Add schema for all flipr objects.
+tst_table 2020-05-26T12:33:16Z Maria Sokolova <mlsokolova@gmail.com> # Add tst_table
